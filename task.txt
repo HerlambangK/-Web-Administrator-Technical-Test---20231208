@@ -1,0 +1,34 @@
+Nama : Herlambang
+Task:
+Add an h1 tag to "東京都".
+
+• Add h2 tags to “東京都について” , “東京都の人口” ,
+“人気の観光地” and “東京都の12月のイベント”.
+• Add a p tag.
+• Also, add a br tag to two position where there is a line break
+in the text.
+
+• Replace the "東京の写真" text with the “Tokyo.png" image.
+• Specify the width and height in the img tag.
+Also, insert "東京都" in alt.
+• Emphasize “14,099,993人" (strong).
+• Add ul and li tags from "東京タワー" to "渋谷スクラ
+ンブル交差点".
+
+• Add the bottom of the table.
+The text is in "[Added] Table Data.txt".
+• Set a link that connects to kikou.html.
+• Add the class name "pageTopBtn" to the p tag in this section.
+• Set a link that jumps to the header of the page.
+
+
+Layout instructions 3/3
+
+• In CSS, specify #4A0083 as the background color for
+the h1 tag and #FFFFFF as font color.
+1
+
+• In CSS, specify #1c79b6 as the text color for the h2 tag.
+
+• In CSS, specify #ec0556 as the text color for the strong
+tag and specify 16px for the font size.
